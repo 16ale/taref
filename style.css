@@ -24,7 +24,6 @@
 }
 
 html {
-  
   scroll-behavior: smooth;
 }
 
@@ -483,7 +482,7 @@ footer .social-links {
   }
 
   .wrapper {
-    width: min(112rem, 100%);
+    width: min(100rem, 100%);
     display: grid;
   }
 
